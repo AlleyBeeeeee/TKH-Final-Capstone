@@ -1,5 +1,3 @@
-cat << 'EOF' > README.md
-
 # Automated DevSecOps Cloud Architecture & IaC Quality Gate
 
 ![DevSecOps Pipeline](https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-blue?logo=github-actions)
