@@ -67,6 +67,8 @@ Instead of manual "ClickOps" in the AWS Console, every infrastructure change is 
 
 ## Quickstart & Verification
 
+~
+
 ### Prerequisites
 
 - Terraform CLI (`>= 1.0.0`)
